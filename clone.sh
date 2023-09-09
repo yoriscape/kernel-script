@@ -2,7 +2,7 @@
 #set -e
 # Kernel
 echo -e "$green << cloning kernel >> \n $white"
-git clone https://github.com/arefinx/kernel_xiaomi_sunny -b lineage-20 moonlight
+git clone https://github.com/VoidUI-Devices/kernel_xiaomi_sm8250 moonlight
 echo -e "$green << cloned kernel successfully >> \n $white"
 
 # Tool Chain
